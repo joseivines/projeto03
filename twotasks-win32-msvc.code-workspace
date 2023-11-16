@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../PROJETO03/twotasks-win32-msvc"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
